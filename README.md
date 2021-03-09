@@ -1,0 +1,2 @@
+# PIT
+Programmatūras izstrādes tehnoloģija
